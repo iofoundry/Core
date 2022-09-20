@@ -52,7 +52,7 @@ Getting involved will also give you access to discussions on issues regarding is
 
 # License
 
-The IOF Core Ontology is licensed under the [**MIT License](http://opensource.org/licenses/MIT)**.** For additional details on licensing, copyrights, and the permissions granteed, read the LICENSE file contained in this repository. 
+The IOF Core Ontology is licensed under the [MIT License](http://opensource.org/licenses/MIT)**.** For additional details on licensing, copyrights, and the permissions granteed, read the LICENSE file contained in this repository. 
 
 # Links
 
